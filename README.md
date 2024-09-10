@@ -4,9 +4,6 @@
 
 This project is a **Database Management System** for an **Airline Management System** that allows users to book tickets for any destination from any airport, compare flight prices, and select flights based on various preferences. The system includes flight timings, airport details, and offers options to choose flights with or without junctions.
 
-### Project Members:
-- **Aditya Shah** (202003045)
-
 ## Features
 - **Flight Booking**: Users can book flights based on their preferred date, compare different airlines, and select flights with or without junctions.
 - **Flight Information**: Displays arrival and departure times along with additional airport-related information.
